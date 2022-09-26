@@ -10,6 +10,18 @@
 <p>Sou iniciante na programação e busco aprender tudo de 
 Front-end.</p>
 <p>Apresento o <strong>Fomo Podcast</strong>, um programa focado em tecnologia e Bitcoin.</p>
+<div>
+<p>No momento estou aprendendo os fundamentos do HTML e do CSS, espero me aprofundar mais nisso.</p>
+
+<div style="diplay:inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+</div>
+              
+Minhas redes socias 
+</div>
+
+
 
 
 
