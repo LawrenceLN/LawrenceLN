@@ -6,12 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
 </head>
-<h1> Lawrence (Fomo podcast)</h1>
-<p>Sou iniciante na programação e busco aprender tudo de 
-Front-end.</p>
-<p>Apresento o <strong>Fomo Podcast</strong>, um programa focado em tecnologia e Bitcoin.</p>
+<h1> Lawrence (Fomo Plebcast)</h1>
+<p>Sou iniciante na programação e busco aprender o básico para poder ajudar as pessoas com Bitcoin.</p>
+<p>Apresento o <strong>Fomo Plebcast</strong>, um programa que aborda assuntos sobre Bitcoin, tecnologia e sociedade.</p>
 <div>
-<p>No momento estou aprendendo os fundamentos do HTML e do CSS, espero me aprofundar mais nisso.</p>
+<p>No momento estou aprendendo a usar o GitHub.</p>
 
 </div>
     <div style="display: inline_block"><br><img align="center" alt="lawrence-HTML" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
