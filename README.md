@@ -7,9 +7,7 @@
     
 </head>
 <h1> Lawrence (Fomo Plebcast)</h1>
-<p>Sou iniciante na programação, entusiasta de open source e acredito no desenvolvimento de software para alcançar a liberdade.<p/>
-<p> Adoro aprender e me dedicar a melhorias contínuas.<p/>
-    <p>Sonho aprender o essencial para poder ajudar as pessoas com Bitcoin e, quem sabe um dia, colaborar no Bitcoin Core.</p>
+<p>
 <p>Apresento o <strong>Fomo Plebcast</strong>, um programa que aborda assuntos sobre Bitcoin, tecnologia e sociedade.</p>
 <div>
 <p>No momento estou aprendendo a usar o GitHub.</p>
