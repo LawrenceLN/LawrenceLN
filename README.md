@@ -16,10 +16,7 @@
     <div style="display: inline_block"><br><img align="center" alt="lawrence-HTML" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
         <div>
          <div style="display: inline_block"><br><img align="center" alt="lawrence-HTML" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-             </div>
-            <div>
-             <div style="display: inline_block"><br><img align="center" alt="lawrence-HTML" height="30"  width="40" src="https:https://icons8.com/icon/108784/javascript>
-    </div>
+         </div>
     <br>
     <p> Você me encontra no Twitter
         👇
