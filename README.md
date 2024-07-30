@@ -11,7 +11,7 @@
 <div>
 <p>No momento estou aprendendo HTML, CSS, JS.</p>
 
-    <p> Você me encontra no Twitter
+    Você me encontra no Twitter
         👇
 <div>
     <a href="https://twitter.com/outsider_error" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
