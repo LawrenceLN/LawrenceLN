@@ -6,9 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
 </head>
-<h1> Lawrence (Fomo Plebcast)</h1>
+<h1> Lawrence</h1>
 <p>
-<p>Apresento o <strong>Fomo Plebcast</strong>, um programa que aborda assuntos sobre Bitcoin, tecnologia e sociedade.</p>
 <div>
 <p>No momento estou aprendendo HTML, CSS, JS.</p>
 
